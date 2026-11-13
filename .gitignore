@@ -1,0 +1,34 @@
+
+# ==================================
+# Quartus Prime
+# ==================================
+/db/
+/incremental_db/
+/output_files/
+
+*.rpt
+*.qws
+*.smsg
+
+# ==================================
+# Questa / ModelSim
+# ==================================
+/work/
+
+*.wlf
+*.vstf
+*.mti
+*.ucdb
+modelsim.ini
+transcript
+
+# ==================================
+# Temporary files
+# ==================================
+*.bak
+*.log
+*.tmp
+
+# Uncomment only if simulation/
+# contains exclusively generated files
+# /simulation/
